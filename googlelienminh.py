@@ -10,3 +10,4 @@ q = driver.find_element_by_name("q")
 q.send_keys("lien minh huyen thoai")
 q.submit()
 
+c = driver.find_element_by_xpath("//div//h3").click()
