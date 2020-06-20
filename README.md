@@ -24,3 +24,4 @@ Run from shell prompt
 PYTHONPATH=`pwd` pipenv run python s200620.lienminh.garena.vn.py
 PYTHONPATH=`pwd` pipenv run python s200620.app.mobalytics.gg.py
 PYTHONPATH=`pwd` pipenv run python s200620.na.leagueoflegends.com.py
+PYTHONPATH=`pwd` pipenv run python s200620.na.leagueoflegends.com.HUBNODE.py
