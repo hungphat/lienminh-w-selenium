@@ -14,4 +14,4 @@ for champion in champion_list:
     champion_name = champion.text
     i =122
 
-# driver.find_element_by_link_text("/game-info]").click()
+wd.quit()
